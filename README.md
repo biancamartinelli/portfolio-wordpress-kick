@@ -1,4 +1,4 @@
-# Portfólio Kick! Turma F 2023 - Cafeteria 
+# Portfólio Kick! Turma F 2023 
 
 ## 📌No projeto foi Worpress.
 
