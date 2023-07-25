@@ -2,8 +2,8 @@
 
 ## 📌No projeto foi Worpress.
 
-## 💡 Acesso ao curso!
-[Você pode acessar o link curso aqui](https://bianca-martinelli.soukick.com.br/?preview_id=10)
+## 💡 Acesso ao Portfolio!
+[Você pode acessar o Portfolio aqui.](https://bianca-martinelli.soukick.com.br/?preview_id=10)
 
 
 ## 💻Demonstração do Projeto:
